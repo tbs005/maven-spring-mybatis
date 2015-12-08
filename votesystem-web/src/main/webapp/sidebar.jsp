@@ -35,7 +35,7 @@
 				</ul>
 			</li>
 			<li role="presentation" class="divider"></li>
-			<li><a href="login.jsp"><span class="glyphicon glyphicon-user"></span> Login Page</a></li>
+			<li><a href="login.jsp"><span class="glyphicon glyphicon-user"></span> 退出系统</a></li>
 		</ul>
 		<div class="attribution">T服务平台开发团队 <a href="http://www.cssmoban.com/" target="_blank" title="">投票系统</a> - Collect from <a href="http://www.cssmoban.com/" title="ç½é¡µæ¨¡æ¿" target="_blank">version 0.1</a></div>
 	</div><!--/.sidebar-->
