@@ -90,7 +90,7 @@
 	</filter-mapping>
 
 	<welcome-file-list>
-		<welcome-file>/index.jsp</welcome-file>
+		<welcome-file>/login.jsp</welcome-file>
 	</welcome-file-list>
 
 	<!-- 配置session超时时间，单位分钟 -->

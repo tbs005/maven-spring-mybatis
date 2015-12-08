@@ -11,7 +11,7 @@ public class LoginController {
 	@RequestMapping(value = "/login", method = RequestMethod.POST) 
 	public String login(@RequestParam("userId") String id){
 		
-		return "/main.jsp";
+		return "/index.jsp";
 		
 	}
 	
