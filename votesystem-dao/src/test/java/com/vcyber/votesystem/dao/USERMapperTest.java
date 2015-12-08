@@ -24,7 +24,7 @@ public class USERMapperTest {
 	@Test
 	public void testInsert() {
 		USER user = new USER();
-		user.setName("aaaa");
+		user.setName("cccc");
 		user.setMail("wangweihua@vcyber.com");
 		
 		int num = userDAO.insert(user);
